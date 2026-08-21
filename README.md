@@ -1,2 +1,4 @@
 # Eng.-de-Software-II
 Engenharia de Software 5° semestre ADS FATEC Sorocaba
+
+EXERCÍCIO 3 - SELECIONAR O TIPO DE REQUISITO NÃO FUNCIONAL CORRESPONDENTE A DESCRIÇÃO
